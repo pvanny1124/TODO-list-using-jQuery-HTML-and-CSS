@@ -1,0 +1,2 @@
+# TODO-list-using-jQuery-HTML-and-CSS
+In this mini-project, I created a simple todo list where a user can enter a todo, scratch it off the list, or delete it from the list. This project includes features such as the use of the fadeToggle(), stopPropagation(), toggleClass(), and keypress() jQuery methods. It also demonstrates how to use the transition feature in CSS to slide a delete box next to a todo.
